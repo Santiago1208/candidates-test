@@ -1,0 +1,7 @@
+.background-image {
+	background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6) 1%, transparent),
+	url("/images/pope_francis.jpg");
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+}

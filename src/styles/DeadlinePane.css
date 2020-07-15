@@ -1,0 +1,24 @@
+.capitalize {
+	text-transform: capitalize;
+}
+
+.uppercase {
+	text-transform: uppercase;
+}
+
+.white-blur {
+	background-color: rgba(255, 255, 255, 0.74);
+}
+
+.dead-line {
+	font-size: 1.5rem;
+}
+
+.to-bottom {
+	position: absolute;
+	bottom: 0;
+}
+
+.black-blur {
+	background: linear-gradient(to left, rgba(0, 0, 0, 0.2) 1%, transparent);
+}
